@@ -2,6 +2,10 @@
 
 **The food tables the [selfhostit](https://github.com/selfhostit) apps share.**
 
+[![CI](https://github.com/selfhostit/food/actions/workflows/ci.yml/badge.svg)](https://github.com/selfhostit/food/actions/workflows/ci.yml)
+[![Go Reference](https://pkg.go.dev/badge/github.com/selfhostit/food.svg)](https://pkg.go.dev/github.com/selfhostit/food)
+[![License: MIT](https://img.shields.io/github/license/selfhostit/food)](LICENSE)
+
 A small Go module that reads the food and product tables used by
 [Troye](https://github.com/selfhostit/troye) (a calorie tracker) and
 [Shoppa](https://github.com/selfhostit/shoppa) (a shopping list), and helps search
